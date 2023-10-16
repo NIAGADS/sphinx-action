@@ -1,6 +1,6 @@
-FROM sphinxdoc/sphinx:2.4.4
+FROM sphinxdoc/sphinx
 
-LABEL "maintainer"="Ammar Askar <ammar@ammaraskar.com>"
+LABEL "maintainer"="fossilfreind"
 
 ADD entrypoint.py /entrypoint.py
 ADD sphinx_action /sphinx_action

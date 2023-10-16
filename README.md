@@ -1,5 +1,7 @@
 # Sphinx Build Action
 
+**Modified by @fossilfriend to handle python 3.10x**
+
 [![Build Status](https://travis-ci.org/ammaraskar/sphinx-action.svg?branch=master)](https://travis-ci.org/ammaraskar/sphinx-action)
 [![Test Coverage](https://codecov.io/gh/ammaraskar/sphinx-action/branch/master/graph/badge.svg)](https://codecov.io/gh/ammaraskar/sphinx-action)
 

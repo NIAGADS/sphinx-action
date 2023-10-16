@@ -1,6 +1,6 @@
 name: 'Sphinx Build'
-description: 'Builds documentation using Sphinx'
-author: 'Ammar Askar'
+description: 'Builds documentation using Sphinx; upgraded to python 3.10.x'
+author: 'Ammar Askar; modified by fossilfriend'
 branding:
   icon: 'book'
   color: 'yellow'
